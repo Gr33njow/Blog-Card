@@ -5,7 +5,7 @@ The goal was to recreate the desktop and mobile designs using only **HTML** and 
 
 ## 🚀 Demo
 
-- [Live Site](https://your-github-pages-or-vercel-link.netlify.app/)  
+- [Live Site](https://gr33njow.github.io/Blog-Card/)  
 - [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/your-solution-link)  
 
 ## ⚙️ Built with
